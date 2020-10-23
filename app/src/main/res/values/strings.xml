@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jogo da Velha</string>
+    <string name="item_cd">Elemento do Jogo</string>
+    <string name="no_winner">Não houve vencedor!</string>
+    <string name="winner">O vencedor foi %1$s, parabéns!!!</string>
+</resources>
